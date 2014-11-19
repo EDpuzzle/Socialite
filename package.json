@@ -1,0 +1,13 @@
+{
+	"name": "socialite",
+	"version": "0.0.1",
+	"contributors": [
+		{
+			"name": "Tom Morton"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/edpuzzle/Socialite"
+		}
+}
